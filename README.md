@@ -2,7 +2,7 @@
 
 A guard clause is a programming construct that allows you to exit a function early if certain conditions are not met. It is a concise and effective way to handle edge cases and improve the readability of your code.
 
-Let's start by looking at an example of a function in Javascript:
+Let's start by looking at `example1` of a function in Javascript:
 
 ```
 function divide(x, y) {
@@ -21,7 +21,7 @@ In this example, we have a function called "divide" that takes two arguments: "x
 
 This is an example of a guard clause. The "if" statement acts as a guard, preventing the function from continuing if the condition is not met. Guard clauses are often used to prevent errors and improve the reliability of a function.
 
-Guard clauses can be used to check for other conditions as well. For example:
+Guard clauses can be used to check for other conditions as well. Here's usage in `example2`:
 
 ```
 function findIndex(array, value) {
