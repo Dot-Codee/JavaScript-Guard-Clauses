@@ -2,7 +2,7 @@
 
 A guard clause is a programming construct that allows you to exit a function early if certain conditions are not met. It is a concise and effective way to handle edge cases and improve the readability of your code.
 
-Let's start by looking at `example1` of a function in Javascript:
+Let's start by looking at `example1` from our repository in Javascript:
 
 ```
 function divide(x, y) {
