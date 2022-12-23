@@ -6,5 +6,5 @@ function divide(x, y) {
     return x / y;
 }
   
-console.log(divide(10, 2)); // Outputs 5
-console.log(divide(10, 0)); // Outputs undefined
+console.log(divide(10, 2));
+console.log(divide(10, 0));
